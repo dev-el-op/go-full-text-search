@@ -1,2 +1,3 @@
-# go-full-text-search
+# Go Full Text Search
+
 A full text search engine written in Go
